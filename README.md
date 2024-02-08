@@ -6,7 +6,8 @@ Md Rezaul Hoque - 200484979
 Trupalkumar Dharmeshbhai Ukani - 200515399
 
 GitHub & USM
-Github: https://github.com/Pruthvi2309/ENSE-871-Usability-Research-and-Engineering-Design-project/edit/reza/README.md
+
+Github: [link](https://github.com/Pruthvi2309/ENSE-871-Usability-Research-and-Engineering-Design-project/edit/reza/README.md)
 User Story Map: [User story map link](https://landofooo.storiesonboard.com/storymap/groupc)
 
 Problem description
