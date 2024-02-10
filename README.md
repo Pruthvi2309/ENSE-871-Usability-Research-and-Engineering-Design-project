@@ -7,8 +7,6 @@ Trupalkumar Dharmeshbhai Ukani - 200515399
 
 GitHub & USM
 
-Github: [link](https://github.com/Pruthvi2309/ENSE-871-Usability-Research-and-Engineering-Design-project/edit/reza/README.md)
-
 User Story Map: [User story map link](https://landofooo.storiesonboard.com/storymap/groupc)
 
 Empathy Mapping: [Link](https://app.mural.co/t/universityofregina0018/m/universityofregina0018/1707085467522/0884c4153b1592a6beeb6ea2f3158ec6c09b7067?sender=ue0b55b8e268c6151b4c16730)
