@@ -1,5 +1,5 @@
 # ENSE-871-Usability-Research-and-Engineering-Design-project
-Team members[edit]
+Team members
 Vasuki Nandan Ganti - 200476340
 Pruthvi Patel - 200509419
 Md Rezaul Hoque - 200484979
