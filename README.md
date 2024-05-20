@@ -35,7 +35,7 @@ Ensure the platform supports bilingual communication, reflecting the diversity o
 Implement a member-only section for exclusive content and discussions within the SIG.
 
 
-Given these objectives, the technology and programming environment for the web platform will include StoriesOnBoard, Mural, WordPress and GitHub.
+Given these objectives, the technology and programming environment for the web platform will include StoriesOnBoard, Mural, WordPress, and GitHub.
 
 Our design approach would follow a Design Thinking methodology with an Agile/Fast Feedback Cycle. This involves iterative design, prototyping, and testing to ensure the platform meets the needs of the SIG members.
 
@@ -43,7 +43,7 @@ Our design approach would follow a Design Thinking methodology with an Agile/Fas
 
 Northstar & Carryover customers:
 
-NorthStar (target) customer:  Special Interest Group (SIG) from Canadian Engineering Education Association (CEEA) specifically focused on "Humanities in Engineering" 
+NorthStar (target) customer:  Special Interest Group (SIG) from the Canadian Engineering Education Association (CEEA) specifically focused on "Humanities in Engineering" 
 Carryover customers: Anybody with same interests like students, teachers, and other researchers.
 
 Project Constraints:
